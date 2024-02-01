@@ -1,7 +1,9 @@
-GitHubName: Fred062f
-sportsOfInterests:
-  - Football
-  - Golf
-  - Formula 1
-isStudent: true
-currentSemester: 2
+person:
+  githubName: Fred062f
+  isStudent: true
+  currentSemester: 2
+  languages:
+    - JavaScript
+    - Python
+    - C
+    - Kotlin
