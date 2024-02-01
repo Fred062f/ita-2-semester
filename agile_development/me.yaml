@@ -1,4 +1,7 @@
-name: Fred062f
-sports:
+GitHubName: Fred062f
+sportsOfInterests:
   - Football
   - Golf
+  - Formula 1
+isStudent: true
+currentSemester: 2
