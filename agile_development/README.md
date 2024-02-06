@@ -7,6 +7,6 @@ This folder contains all assignments regarding *Agile Development*.
 console.log("Hello World")
 ```
 
-## Agile Develpåment Model
+## Agile Development Model
 
 ![](https://www.krasamo.com/wp-content/uploads/agile-01-scaled.jpeg)
