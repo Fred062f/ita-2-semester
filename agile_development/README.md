@@ -1,7 +1,7 @@
-# Agile Development class
+# Agile Development Class
 
 This folder contains all *assignments* regarding **Agile Development**
 
-## Here is a picture
+## Agile
 
 ![](https://www.krasamo.com/wp-content/uploads/agile-01-scaled.jpeg)
