@@ -1,0 +1,11 @@
+name: Issues Auto Commenter
+
+on:
+  issue: types [opened]
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dumo GitHub information
+      steps: echo '${{ toJson( github ) }}' | jq
