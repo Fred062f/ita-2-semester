@@ -70,7 +70,7 @@ two additional classes: Laptop and SmartPhone
  */
 
 // For a parent class add 3 properties, 2 methods, and a constructor.
-open class Computer(val brand: String, val model: String, val price: Double) {
+open class Computer(val brand: String, val model: String, open val price: Double) {
     fun display() {
         println("Brand: ${brand}\nModel: ${model}\nPrice: ${price} $")
     }
