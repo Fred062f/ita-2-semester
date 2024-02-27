@@ -1,0 +1,12 @@
+{
+  "name": "agile_development",
+  "version": "0.0.1",
+  "description": "node, ci/cd, linting",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo Building...",
+    "test": "echo Running tests..."
+  },
+  "author": "",
+  "license": "MIT"
+}
